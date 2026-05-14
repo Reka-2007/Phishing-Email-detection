@@ -1,0 +1,7 @@
+text,label
+"Verify your bank account immediately at http://fakebank.com",phishing
+"Meeting tomorrow at 10 AM",safe
+"Your password will expire soon. Login now!",phishing
+"Happy Birthday! Have a great day",safe
+"Click here to claim your reward",phishing
+"Project discussion scheduled for Monday",safe
